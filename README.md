@@ -6,7 +6,7 @@
 
 # Data Sources
 * [World Happiness Report – 2019](https://worldhappiness.report/ed/2019/)
-* [World Population Review](www.worldpopulationreview.com )
+* [World Population Review](www.worldpopulationreview.com)
 
 # Variables
 1. Country: Country being studied.
