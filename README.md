@@ -2,7 +2,7 @@
 
 ## Does population density affect the measure of a country’s happiness?
 
-![TitleSlide](Resources/TitleSlide.png)
+<img src="Resources/TitleSlide.PNG" alt="TitleSlide" width="1009" height="557" />
 
 # Data Sources
 * [World Happiness Report – 2019](https://worldhappiness.report/ed/2019/)
