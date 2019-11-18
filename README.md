@@ -27,9 +27,9 @@
 16. __Area:__ A region or part of a town, country, or the world.
 
 # Contributors 
-* __Claudia Palmer-Martinez:__ ![github](https://github.com/Claud50623)
-* __Alexandra Solano:__ ![github](https://github.com/alexsolano36)
-* __Donatienne Noel:__ ![github](https://github.com/donatiennenoel)
-* __John S. Chapek:__ ![github](https://github.com/code-sparrow)
+* __Claudia Palmer-Martinez:__ [github](https://github.com/Claud50623)
+* __Alexandra Solano:__ [github](https://github.com/alexsolano36)
+* __Donatienne Noel:__ [github](https://github.com/donatiennenoel)
+* __John S. Chapek:__ [github](https://github.com/code-sparrow)
 
 
